@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm FELIPE H GARCIA 👋
 
-<!--
-**gelipe052-rgb/gelipe052-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software Developer | 12 Years Experience
 
-Here are some ideas to get you started:
+Especialista en navegar la complejidad. Con 12 años en la industria, he aprendido que el mejor lenguaje es el que resuelve el reto de negocio de forma óptima. Mi fuerte es la adaptabilidad: me muevo con fluidez entre diversos entornos tecnológicos, seleccionando siempre el stack que garantice escalabilidad y rendimiento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Tecnológicamente agnóstico. Orientado a resultados. Siempre evolucionando.**
+
+- 🌍 **Versatilidad total:** Me muevo con fluidez en diferentes entornos y arquitecturas.
+- 🛠 **Criterio Senior:** Elijo el stack basándome en escalabilidad, rendimiento y contexto.
+- 🚀 **Enfoque:** Construir software sólido que trascienda la tecnología de moda.
+
+---
+
+### 🛠 My Versatile Toolbox
+*Dependiendo del entorno, despliego mi experiencia:*
+
+---
+
+### 🤝 Let's connect
+¿Tienes un reto complejo que necesite la tecnología adecuada?
+
+
+
+
+
